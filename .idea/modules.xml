@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/euclid_gcd/euclid_gcd.iml" filepath="$PROJECT_DIR$/euclid_gcd/euclid_gcd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/head_tail_recursion/head_tail_recursion.iml" filepath="$PROJECT_DIR$/head_tail_recursion/head_tail_recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterative_vs_recursive/iterative_vs_recursive.iml" filepath="$PROJECT_DIR$/iterative_vs_recursive/iterative_vs_recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaproj.iml" filepath="$PROJECT_DIR$/.idea/javaproj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
+    </modules>
+  </component>
+</project>
